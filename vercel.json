@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://realty-flow-ai-app-6f1817e2.base44.app/$1",
+      "permanent": true
+    }
+  ]
+}
