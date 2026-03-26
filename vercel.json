@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "https://realty-flow-ai-app-6f1817e2.base44.app/Landing"
+      "destination": "https://luxe-property-os.base44.app/Landing"
     },
     {
       "source": "/(.*)",
-      "destination": "https://realty-flow-ai-app-6f1817e2.base44.app/$1"
+      "destination": "https://luxe-property-os.base44.app/$1"
     }
   ],
   "headers": [
